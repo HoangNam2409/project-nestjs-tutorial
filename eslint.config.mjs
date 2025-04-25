@@ -38,7 +38,7 @@ export default tseslint.config(
                     useTabs: false,
                 },
             ],
-            indent: ['error', 4],
+            // indent: ['error', 4],
             // '@typescript-eslint/no-unsafe-assignment': 'off',
             // '@typescript-eslint/no-unsafe-call': 'off',
         },
